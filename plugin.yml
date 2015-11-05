@@ -1,0 +1,12 @@
+name: GoldyCommands
+main: me.silentbloodgaming.goldycommands.core.Main
+author: reuben4545
+version: 0.1
+description: GoldyCommands - A bunch of commands!
+commands:
+   staffcommands:
+      description: Shows all of the commands for staff/admins.
+   goldpowers:
+      description: Mlg FaZe Get Rekt Command
+   goldyutils:
+      description: Setting reubens tag to server host
